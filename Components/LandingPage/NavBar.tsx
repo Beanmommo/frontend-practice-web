@@ -1,12 +1,12 @@
 import React from 'react'
-import "./styles.css"
+import "./navbar.css"
 
 const NavBar = () => {
   return (
     <nav className='nav'>
         <ul>
             <li>
-                <a href='/'>Home</a>
+                <a href='/' className='active'>Home</a>
             </li>
             <li>
                 <a href='/'>Features</a>
@@ -28,5 +28,5 @@ const NavBar = () => {
     </nav>
   )
 }
-5
+
 export default NavBar
