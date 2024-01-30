@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { DM_Sans } from "next/font/google";
 
-const dm_sans = DM_Sans({weight: "500", subsets: ["latin"]})
+const dm_sans = DM_Sans({subsets: ["latin"]})
 
 
 export const metadata: Metadata = {
