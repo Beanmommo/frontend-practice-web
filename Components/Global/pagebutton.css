@@ -1,0 +1,15 @@
+div.page-button {
+    margin: 0;
+    padding: 4rem 0 0 0 ;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+div.page-button button{
+    margin: 0;
+    width: 230px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: #482BE7;
+    color: white;
+}

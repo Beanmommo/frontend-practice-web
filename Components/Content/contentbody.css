@@ -1,0 +1,37 @@
+.content-body {
+    padding-top: 7rem;
+    display: grid;
+    justify-content: center;
+}
+
+div.content-body h5, div.content-body h1, div.content-body p{
+    display: grid;
+    justify-content: center;
+}
+
+div.content-body h5{
+    padding-bottom: 3rem;
+    font-size: 14px;
+    letter-spacing: 2px;
+    line-height: 26px;
+}
+
+div.content-body h1{
+    padding-bottom: 2rem;
+    font-size: 58px;
+    letter-spacing: -1px;
+    line-height: 70px;
+    width: 815px;
+    word-wrap: normal;
+    text-align: center;
+    
+}
+
+div.content-body p{
+    padding-bottom: 7rem;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    width: 775px;
+}
+
