@@ -1,5 +1,4 @@
-import React from 'react'
-import "./carouseltab.css"
+import "./Styles/carouseltab.css"
 
 export const CarouselTab = () => {
   return (

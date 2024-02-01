@@ -1,5 +1,4 @@
-import React from 'react'
-import "./contentbody.css"
+import "./Styles/contentbody.css"
 
 const ContentBody = () => {
   return (
