@@ -1,6 +1,6 @@
 
-import React, { FC } from 'react'
-import "./pagebutton.css"
+import { FC } from 'react'
+import "./Styles/pagebutton.css"
 
 interface PageButtonProps {
     displayName? : string;

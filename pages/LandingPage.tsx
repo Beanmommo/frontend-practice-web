@@ -1,7 +1,6 @@
-import React from 'react'
-import PageButton from "@/Components/Global/PageButton";
-import { CarouselTab } from "@/Components/LandingPage/CarouselTab";
-import NavBar from "@/Components/LandingPage/NavBar";
+import PageButton from "@/Components/PageButton";
+import { CarouselTab } from "@/Components/CarouselTab";
+import NavBar from "@/Components/NavBar";
 
 const LandingPage = () => {
   return (

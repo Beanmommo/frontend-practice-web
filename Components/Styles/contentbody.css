@@ -22,6 +22,7 @@ div.content-body h1{
     letter-spacing: -1px;
     line-height: 70px;
     width: 815px;
+    font-weight: 600;
     word-wrap: normal;
     text-align: center;
     
@@ -33,5 +34,6 @@ div.content-body p{
     line-height: 26px;
     text-align: center;
     width: 775px;
+    opacity: 70%;
 }
 

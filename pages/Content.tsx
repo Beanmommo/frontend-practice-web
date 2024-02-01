@@ -1,5 +1,4 @@
-import ContentBody from '@/Components/Content/ContentBody'
-import React from 'react'
+import ContentBody from '@/Components/ContentBody'
 
 const Content = () => {
   return (
